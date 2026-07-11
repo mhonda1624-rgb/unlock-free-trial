@@ -295,3 +295,9 @@ input:focus {
     padding: 54px 50px 42px;
   }
 }
+.cover-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0 auto 24px;
+}
