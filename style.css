@@ -301,3 +301,15 @@ input:focus {
   height: auto;
   margin: 0 auto 24px;
 }
+.puzzle-image-area {
+  margin: 24px 0 30px;
+  padding: 8px;
+  background: var(--paper-light);
+  border: 1px solid rgba(39, 54, 74, 0.22);
+}
+
+.puzzle-image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
